@@ -18,8 +18,8 @@ After I have finished the 5 course specialization in Deep Learning offered by Ad
 
   sources: [ Natural Language Toolkit (NLTK) package](http://www.nltk.org/)
 
-  - [Week 1 - PA - Logistic regression](https://github.com/amanchadha/coursera-natural-language-processing-specialization/compare/master...MaykaS:patch-1)
-  - [Week 2 - PA - ]
+  - [Week 1 - PA - Logistic regression](https://github.com/MaykaS/NLP/blob/main/NLP%20with%20Classification%20and%20Vector%20Spaces/Logistic%20Regression.ipynb)
+  - [Week 2 - PA - Naive Bayes](https://github.com/MaykaS/NLP/blob/main/NLP%20with%20Classification%20and%20Vector%20Spaces/Naive%20Bayes.ipynb)
   - [Week 3 - PA - ]
   - [Week 4 - PA - ]
 
