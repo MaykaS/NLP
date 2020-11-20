@@ -20,7 +20,7 @@ After I have finished the 5 course specialization in Deep Learning offered by Ad
 
   - [Week 1 - PA - Logistic regression](https://github.com/MaykaS/NLP/blob/main/NLP%20with%20Classification%20and%20Vector%20Spaces/Logistic%20Regression.ipynb)
   - [Week 2 - PA - Naive Bayes](https://github.com/MaykaS/NLP/blob/main/NLP%20with%20Classification%20and%20Vector%20Spaces/Naive%20Bayes.ipynb)
-  - [Week 3 - PA - ]
+  - [Week 3 - PA - Word Embeddings](https://github.com/MaykaS/NLP/blob/main/NLP%20with%20Classification%20and%20Vector%20Spaces/Word%20Embeddings.ipynb)
   - [Week 4 - PA - ]
 
 
