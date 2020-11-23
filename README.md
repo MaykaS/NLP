@@ -28,7 +28,7 @@ After I have finished the 5 course specialization in Deep Learning offered by Ad
 
   - [Week 1 - PA - Autocorrect](https://github.com/MaykaS/NLP/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Autocorrect.ipynb)
   - [Week 2 - PA - Part of speech tagging](https://github.com/MaykaS/NLP/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Part%20of%20Speech%20Tagging.ipynb)
-  - [Week 3 - PA - ]()
+  - [Week 3 - PA - Autocomplete](https://github.com/MaykaS/NLP/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Autocomplete.ipynb)
   - [Week 4 - PA - ]()
 
 
