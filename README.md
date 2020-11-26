@@ -29,7 +29,7 @@ sources: [ Natural Language Toolkit (NLTK) package](http://www.nltk.org/)
   - [Week 1 - PA - Autocorrect](https://github.com/MaykaS/NLP/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Autocorrect.ipynb)
   - [Week 2 - PA - Part of speech tagging](https://github.com/MaykaS/NLP/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Part%20of%20Speech%20Tagging.ipynb)
   - [Week 3 - PA - Autocomplete](https://github.com/MaykaS/NLP/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Autocomplete.ipynb)
-  - [Week 4 - PA - ]()
+  - [Week 4 - PA - Word Embeddings](https://github.com/MaykaS/NLP/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Word%20Embeddings%20(2).ipynb)
 
 
 
