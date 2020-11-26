@@ -1,4 +1,4 @@
-# NLP 5 Course Specialization on Coursera
+# NLP 4 Course Specialization on Coursera
 
 Instructors: [Younes Bensouda Mourri](https://www.coursera.org/instructor/ymourri), [Łukasz Kaiser](https://www.coursera.org/instructor/lukaszkaiser), [Eddy Shyu](https://www.coursera.org/instructor/eddy-shyu)
 
