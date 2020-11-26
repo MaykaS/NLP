@@ -14,9 +14,9 @@ After I have finished the 5 course specialization in Deep Learning offered by Ad
 
 ## Programming Assignments
 
-- Course 1: NLP with Classification and Vector Spaces
+sources: [ Natural Language Toolkit (NLTK) package](http://www.nltk.org/)
 
-  sources: [ Natural Language Toolkit (NLTK) package](http://www.nltk.org/)
+- Course 1: NLP with Classification and Vector Spaces
 
   - [Week 1 - PA - Logistic regression](https://github.com/MaykaS/NLP/blob/main/NLP%20with%20Classification%20and%20Vector%20Spaces/Logistic%20Regression.ipynb)
   - [Week 2 - PA - Naive Bayes](https://github.com/MaykaS/NLP/blob/main/NLP%20with%20Classification%20and%20Vector%20Spaces/Naive%20Bayes.ipynb)
