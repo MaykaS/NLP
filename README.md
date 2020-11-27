@@ -32,6 +32,18 @@ sources: [ Natural Language Toolkit (NLTK) package](http://www.nltk.org/)
   - [Week 4 - PA - Word Embeddings](https://github.com/MaykaS/NLP/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Word%20Embeddings%20(2).ipynb)
 
 
+- Course 3: Natural Language Processing with Sequence Models
+
+  - [Week 1 - PA - Sentiment with Deep Neural Networks](https://github.com/MaykaS/NLP/blob/main/Natural%20Language%20Processing%20with%20Sequence%20Models/Sentiment%20with%20Deep%20Neural%20Networks.ipynb)
+  - [Week 2 - PA - ]()
+  - [Week 3 - PA - ]()
+  - [Week 4 - PA - ]()
 
 
+- Course 4: 
+
+  - [Week 1 - PA - ]()
+  - [Week 2 - PA - ]()
+  - [Week 3 - PA - ]()
+  - [Week 4 - PA - ]()
 
