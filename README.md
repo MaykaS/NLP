@@ -37,7 +37,7 @@ sources: [ Natural Language Toolkit (NLTK) package](http://www.nltk.org/)
   - [Week 1 - PA - Sentiment with Deep Neural Networks](https://github.com/MaykaS/NLP/blob/main/Natural%20Language%20Processing%20with%20Sequence%20Models/Sentiment%20with%20Deep%20Neural%20Networks.ipynb)
   - [Week 2 - PA - Deep N-grams](https://github.com/MaykaS/NLP/blob/main/Natural%20Language%20Processing%20with%20Sequence%20Models/Deep%20N-grams.ipynb)
   - [Week 3 - PA - Named Entity Recognition (NER)](https://github.com/MaykaS/NLP/blob/main/Natural%20Language%20Processing%20with%20Sequence%20Models/Named%20Entity%20Recognition%20(NER).ipynb)
-  - [Week 4 - PA - ]()
+  - [Week 4 - PA -Question duplicates](https://github.com/MaykaS/NLP/blob/main/Natural%20Language%20Processing%20with%20Sequence%20Models/Question%20duplicates.ipynb)
 
 
 - Course 4: 
